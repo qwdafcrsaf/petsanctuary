@@ -1,0 +1,92 @@
+[
+  {
+    "id": "orange_cat",
+    "file": "File:Orange Tabby Cat On Balcony.jpg",
+    "artist": "Brian Adler 12:49, 27 June 2007 (UTC)",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Orange_Tabby_Cat_On_Balcony.jpg",
+    "bytes": 3421
+  },
+  {
+    "id": "tuxedo_cat",
+    "file": "File:Tuxedo longhair cat - Spanky.jpg",
+    "artist": "Holly Cheng",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:Tuxedo_longhair_cat_-_Spanky.jpg",
+    "bytes": 166188
+  },
+  {
+    "id": "ragdoll",
+    "file": "File:Ragdoll from Gatil Ragbelas.jpg",
+    "artist": "Simone Johnsson",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Ragdoll_from_Gatil_Ragbelas.jpg",
+    "bytes": 49985
+  },
+  {
+    "id": "shiba",
+    "file": "File:Shiba inu taiki.jpg",
+    "artist": "Roberto Vasarri",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "page": "https://commons.wikimedia.org/wiki/File:Shiba_inu_taiki.jpg",
+    "bytes": 163788
+  },
+  {
+    "id": "corgi",
+    "file": "File:Fawn and white Welsh Corgi puppy standing on rear legs and sticking out the tongue.jpg",
+    "artist": "Huoadg5888Minor edits made by Subsidiary account",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:Fawn_and_white_Welsh_Corgi_puppy_standing_on_rear_legs_and_sticking_out_the_tongue.jpg",
+    "bytes": 171156
+  },
+  {
+    "id": "golden",
+    "file": "File:Callie the golden retriever puppy.jpg",
+    "artist": "MichaelMcPhee",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Callie_the_golden_retriever_puppy.jpg",
+    "bytes": 193743
+  },
+  {
+    "id": "border",
+    "file": "File:DOG-BORDER Collie 23OCT99.jpg",
+    "artist": "Nancy Wong",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "page": "https://commons.wikimedia.org/wiki/File:DOG-BORDER_Collie_23OCT99.jpg",
+    "bytes": 229171
+  },
+  {
+    "id": "lop_rabbit",
+    "file": "File:Rabbit - Horn Lop Horn-Lop Lop-Eared Lop Eared - 1862 - London Journal of Horticulture 1024x609.jpg",
+    "artist": "London Journal of Horticulture ca. 1862",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "page": "https://commons.wikimedia.org/wiki/File:Rabbit_-_Horn_Lop_Horn-Lop_Lop-Eared_Lop_Eared_-_1862_-_London_Journal_of_Horticulture_1024x609.jpg",
+    "bytes": 111642
+  },
+  {
+    "id": "white_rabbit",
+    "file": "File:The White Rabbit (Tenniel) - The Nursery Alice (1890) - BL.jpg",
+    "artist": "John Tenniel",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "page": "https://commons.wikimedia.org/wiki/File:The_White_Rabbit_(Tenniel)_-_The_Nursery_Alice_(1890)_-_BL.jpg",
+    "bytes": 414368
+  },
+  {
+    "id": "hamster",
+    "file": "File:A pet hamster named Peach.jpg",
+    "artist": "TetraHydroCannabinol",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "page": "https://commons.wikimedia.org/wiki/File:A_pet_hamster_named_Peach.jpg",
+    "bytes": 332402
+  }
+]
