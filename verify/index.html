@@ -17,12 +17,14 @@
       }
     </style>
     <script>
-      // 兼容带路径的验证链接（/verify?userId=..&secret=..）
-      // 真正的页面只有一个：根目录的 index.html，靠 hash 与查询参数识别验证参数
+      // 这台静态托管会把任何带 ? 的地址当成不存在的文件名（直接 404），
+      // 所以参数必须塞进 hash，服务器看不到，也就不会 404。
+      //   /verify?userId=..&secret=..  ->  /#verify?userId=..&secret=..
       (function () {
-        var q = new URLSearchParams(location.search);
-        q.set('verify', '1');
-        location.replace('/?' + q.toString() + location.hash);
+        var q = location.search.replace(/^\?/, '');
+        var extra = location.hash.replace(/^#/, '').replace(/^verify\??/, '');
+        var all = [q, extra].filter(Boolean).join('&');
+        location.replace('/#verify' + (all ? '?' + all : ''));
       })();
     </script>
   </head>

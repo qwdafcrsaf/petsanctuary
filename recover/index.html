@@ -17,9 +17,13 @@
       }
     </style>
     <script>
-      // 兼容带路径的找回密码链接（/recover?userId=..&secret=..）
+      // 这台静态托管对带 ? 的地址一律 404，所以参数只能走 hash：
+      //   /recover?userId=..&secret=..  ->  /#reset?userId=..&secret=..
       (function () {
-        location.replace('/' + location.search + location.hash);
+        var q = location.search.replace(/^\?/, '');
+        var extra = location.hash.replace(/^#/, '').replace(/^reset\??/, '');
+        var all = [q, extra].filter(Boolean).join('&');
+        location.replace('/#reset' + (all ? '?' + all : ''));
       })();
     </script>
   </head>
