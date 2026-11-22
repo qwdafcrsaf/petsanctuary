@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>正在验证…</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        height: 100%;
+        display: grid;
+        place-items: center;
+        background: #fbf7f4;
+        color: #4a5160;
+        font: 14px/1.6 -apple-system, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+      }
+    </style>
+    <script>
+      // 兼容带路径的验证链接（/verify?userId=..&secret=..）
+      // 真正的页面只有一个：根目录的 index.html，靠 hash 与查询参数识别验证参数
+      (function () {
+        var q = new URLSearchParams(location.search);
+        q.set('verify', '1');
+        location.replace('/?' + q.toString() + location.hash);
+      })();
+    </script>
+  </head>
+  <body>
+    <p>正在跳转…</p>
+  </body>
+</html>
