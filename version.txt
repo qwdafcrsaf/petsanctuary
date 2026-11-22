@@ -1,2 +1,2 @@
-build=2026-11-22T07:17Z
-feature=twin-one-slot-picker / twin-resonance / twin-pets / pvp-rooms / fn-otp / gate-card / battle
+build=2026-11-22T07:30Z
+feature=vip-unlimited / twin-one-slot-picker / twin-resonance / twin-pets / pvp-rooms / fn-otp / gate-card / battle
