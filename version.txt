@@ -1,2 +1,2 @@
-build=2026-11-22T06:51Z
-feature=twin-resonance / twin-pets / pvp-rooms / fn-otp / gate-card / battle
+build=2026-11-22T07:11Z
+feature=twin-slot-picker / twin-resonance / twin-pets / pvp-rooms / fn-otp / gate-card / battle
