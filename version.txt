@@ -1,2 +1,2 @@
-build=2026-11-22T07:39Z
-feature=vip-email-only / vip-unlimited / twin-one-slot-picker / twin-resonance / twin-pets / pvp-rooms / fn-otp / gate-card / battle
+build=2026-11-22T07:53Z
+feature=gift / vip-email-only / vip-unlimited / twin-one-slot-picker / twin-resonance / twin-pets / pvp-rooms / fn-otp / gate-card / battle
