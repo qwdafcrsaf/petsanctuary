@@ -1,3 +1,2 @@
-build=2026-11-22T03:58Z
-commit=65ba594
-feature=battle / verify-gate / hash-links / gift-mail
+build=2026-11-22T04:05Z
+feature=otp-verify / battle / hash-links / gift-mail
