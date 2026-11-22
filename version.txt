@@ -1,2 +1,2 @@
-build=2026-11-22T04:05Z
-feature=otp-verify / battle / hash-links / gift-mail
+build=2026-11-22T04:11Z
+feature=otp-verify / name-sync / battle / hash-links
