@@ -1,2 +1,2 @@
-build=2026-11-22T04:19Z
-feature=rename-self / otp-verify / battle
+build=2026-11-22T04:31Z
+feature=fn-otp / rename-self / battle
