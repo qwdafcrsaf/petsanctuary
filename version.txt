@@ -1,2 +1,2 @@
-build=2026-11-22T04:11Z
-feature=otp-verify / name-sync / battle / hash-links
+build=2026-11-22T04:16Z
+feature=rename-self / otp-verify / battle
