@@ -1,2 +1,2 @@
-build=2026-11-22T04:31Z
-feature=fn-otp / rename-self / battle
+build=2026-11-22T05:57Z
+feature=pvp-rooms / fn-otp / gate-card / battle
