@@ -1,2 +1,2 @@
-build=2026-11-27T12:36Z
-feature=food-menu / pet-health / mobile-session-fallback / gift / vip-email-only / twin-one-slot-picker / twin-resonance / twin-pets / pvp-rooms / fn-otp / gate-card / battle
+build=2026-11-27T13:01Z
+feature=auth-nickname-login / food-menu / pet-health / mobile-session-fallback / gift / vip-email-only / twin-one-slot-picker / twin-resonance / twin-pets / pvp-rooms / fn-otp / gate-card / battle
