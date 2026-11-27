@@ -1,2 +1,2 @@
-build=2026-11-27T23:00Z
-feature=chat-copy / friend-chat / mobile-touch-opt / gift-mailbox / auth-nickname-login / food-menu / pet-health / mobile-session-fallback / vip-email-only / twin-one-slot
+build=2026-11-27T23:15Z
+feature=chat-autorefresh / chat-copy / friend-chat / mobile-touch-opt / gift-mailbox / auth-nickname-login / food-menu / pet-health / mobile-session-fallback / vip-email-only / twin-one-slot
