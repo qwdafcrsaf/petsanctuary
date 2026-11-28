@@ -1,2 +1,2 @@
-build=2026-11-28T11:25Z
-feature=desktop-gesture-guard / mobile-remake / tabbar-chat / chat-autorefresh / chat-copy / friend-chat / mobile-touch-opt / gift-mailbox / auth-nickname-login / food-menu / pet-health / mobile-session-fallback / vip-email-only / twin-one-slot
+build=2026-11-28T10:48Z
+feature=i18n-en / battle-swipe-guard / auth-error-copy / desktop-gesture-guard / mobile-remake / tabbar-chat / chat-autorefresh / chat-copy / friend-chat / mobile-touch-opt / gift-mailbox / auth-nickname-login / food-menu / pet-health / mobile-session-fallback / vip-email-only / twin-one-slot
